@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f7964f64fc497945888a3260cab01fc, type: 3}
+  m_Name: CarrotJuice
+  m_EditorClassIdentifier: 
+  itemName: CarrotJuice
+  sprite: {fileID: -789195394947820365, guid: 48f5a32b39b12274f914665220e24452, type: 3}
+  canStack: 1
+  maxStackCount: 32
+  level: 0
+  canBuy: 0
+  buyPrice: 0
+  shopCategory: 0
+  canSell: 1
+  sellPrice: 150

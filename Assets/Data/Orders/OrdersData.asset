@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22a57244584e88145a9fc98b45dc8bc8, type: 3}
+  m_Name: OrdersData
+  m_EditorClassIdentifier: 
+  maxOrdersSlots: 4
+  cultures:
+  - {fileID: 11400000, guid: 2b93a3f1b1d5d8846af18e016f2af384, type: 2}
+  - {fileID: 11400000, guid: 6432f86f6d47c7b408bf6f9c235c489e, type: 2}
+  - {fileID: 11400000, guid: 3ce35d1fa2b83b94bbcba77861845487, type: 2}
+  - {fileID: 11400000, guid: bd8217899322d0447a84784ce6bd6003, type: 2}
+  orders: []

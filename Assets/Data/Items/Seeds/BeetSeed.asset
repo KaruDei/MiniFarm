@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07533244f54487b4a9dfa02eb22045a6, type: 3}
+  m_Name: BeetSeed
+  m_EditorClassIdentifier: 
+  itemName: BeetSeed
+  sprite: {fileID: 21300000, guid: e36c6b4cbd7df2a4faab3166b6cae2ac, type: 3}
+  canStack: 1
+  maxStackCount: 32
+  canBuy: 1
+  buyPrice: 25
+  level: 2
+  shopCategory: 1
+  growTime: 60
+  growCount: 4
+  exp: 60
+  product: {fileID: 11400000, guid: 6432f86f6d47c7b408bf6f9c235c489e, type: 2}
+  growSprite: {fileID: 21300000, guid: 744a09c5842b3df4aaecab6b064cee53, type: 3}
+  LoseSprite: {fileID: 21300000, guid: ca20d3b4c54c1b6408d2750592127258, type: 3}
